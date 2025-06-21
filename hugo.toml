@@ -1,5 +1,5 @@
 title = "Awesome Hugo blog"
-baseURL = 'https://hba.sid.one/'
+baseURL = 'https://www.destrophix.tech'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
