@@ -3,7 +3,7 @@ export const SITE = {
   author: "Amit Bhagat",
   profile: "https://destrophix.in/",
   desc: "A personal blog about programming, technology, and software development.",
-  title: "Blog",
+  title: "Destrophix",
   ogImage: "haikyu.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
